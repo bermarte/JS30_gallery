@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf8" />
+  <title>CSS variables</title>
+  <!-- Leave this here!  It renders the review buttons  -->
+  <script src='../evaluation/init.js'></script>
+  <link href="./public/main.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
+
+  <div class="controls">
+    <label for="spacing">Spacing:</label>
+    <input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+
+    <label for="blur">Blur:</label>
+    <input id="blur" type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
+
+    <label for="base">Base Color</label>
+    <input id="base" type="color" name="base" value="#ffc600">
+  </div>
+
+  <img src="./public/images/photo-1465188162913-8fb5709d6d57.jpeg">
+  
+
+  <!-- initialize your application -->
+  <script type="module" src="./src/init.js"></script>
+
+  <!-- load the review buttons for your live deployment  -->
+  <script src="./lib/review-buttons.js"></script>
+</body>
+
+</html>
