@@ -2,7 +2,8 @@
 
 const sliderImages = document.querySelectorAll('.slide-in');
 
-export function checkSlide() {
+export 
+function checkSlide() {
     sliderImages.forEach(sliderImage => {
         // half way through the image
         const slideInAt = (window.scrollY + window.innerHeight) - sliderImage.height / 2;
