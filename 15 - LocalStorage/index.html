@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Slide on scroll</title>
+
+  <link href="./public/style.css" rel="stylesheet" />
+  <link href="./public/main.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <!--
+      Fish SVG Cred:
+      https://thenounproject.com/search/?q=fish&i=589236
+   -->
+  <img src="./public/imgs/fish.svg" id="svg" />
+
+  <div class="wrapper">
+    <h2>LOCAL TAPAS</h2>
+    <p></p>
+    <ul class="plates">
+      <li>Loading Tapas...</li>
+    </ul>
+    <form class="add-items">
+      <input type="text" name="item" placeholder="Item Name" required>
+      <input type="submit" value="+ Add Item">
+    </form>
+    <form class="group-btns">
+        <input type="submit" id="checkAll" value="check them all">
+        <input type="submit" id="uncheckAll" value="uncheck them all">
+        <input type="submit" id="deleteAll" value="delete all">
+    </form>
+  </div>
+
+  <!-- initialize your application -->
+  <script type="module" src="./src/init.js"></script>
+
+  <!-- load the review buttons for your live deployment  -->
+  <script src="./lib/review-buttons.js"></script>
+</body>
+
+</html>
