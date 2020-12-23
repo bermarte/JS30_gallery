@@ -1,37 +1,34 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bermarte/JS30_gallery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bermarte/JS30_gallery/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+  <li><a href="./01 - JavaScript Drum Kit/">01 - JavaScript Drum Kit</a></li>
+  <li><a href="./02 - JS and CSS Clock/">02 - JS and CSS Clock</a></li>
+  <li><a href="./03 - CSS Variables/">/03 - CSS Variables</a></li>
+  <li><a href="./04 - Array Cardio Day 1/">04 - Array Cardio Day 1</a></li>
+  <li><a href="./05 - Flex Panel Gallery/">05 - Flex Panel Gallery</a></li>
+  <li><a href="./06 - Type Ahead/">06 - Type Ahead</a></li>
+  <li><a href="./07 - Array Cardio Day 2/">07 - Array Cardio Day 2</a></li>
+  <li><a href="./08 - Fun with HTML5 Canvas/">08 - Fun with HTML5 Canvas</a></li>
+  <li><a href="./09 - Dev Tools Domination/">09 - Dev Tools Domination</a></li>
+  <li><a href="./10 - Hold Shift and Check Checkboxes/">10 - Hold Shift and Check Checkboxes</a></li>
+  <li><a href="./11 - Custom Video Player/">11 - Custom Video Player</a></li>
+  <li><a href="./12 - Key Sequence Detection/">12 - Key Sequence Detection</a></li>
+  <li><a href="./13 - Slide in on Scroll/">13 - Slide in on Scroll</a></li>
+  <li><a href="./14 - JavaScript References VS Copying/">14 - JavaScript References VS Copying</a></li>
+  <li><a href="./15 - LocalStorage/">15 - LocalStorage</a></li>
+  <li><a href="./16 - Mouse Move Shadow/">16 - Mouse Move Shadow</a></li>
+  <li><a href="./17 - Sort Without Articles/">17 - Sort Without Articles</a></li>
+  <li><a href="./18 - Adding Up Times with Reduce/">18 - Adding Up Times with Reduce</a></li>
+  <li><a href="./19 - Webcam Fun/">19 - Webcam Fun</a></li>
+  <li><a href="./20 - Speech Detection/">20 - Speech Detection</a></li>
+  <li><a href="./21 - Geolocation/">21 - Geolocation</a></li>
+  <li><a href="./22 - Follow Along Link Highlighter/">22 - Follow Along Link Highlighter</a></li>
+  <li><a href="./23 - Speech Synthesis/">23 - Speech Synthesis</a></li>
+  <li><a href="./24 - Sticky Nav/">24 - Sticky Nav</a></li>
+  <li><a href="./25 - Event Capture, Propagation, Bubbling and Once/">25 - Event Capture, Propagation, Bubbling and Once</a></li>
+  <li><a href="./26 - Stripe Follow Along Nav/">26 - Stripe Follow Along Nav</a></li>
+  <li><a href="./27 - Click and Drag/">27 - Click and Drag</a></li>
+  <li><a href="./28 - Video Speed Controller/">28 - Video Speed Controller</a></li>
+  <li><a href="./29 - Countdown Timer/">29 - Countdown Timer</a></li>
+  <li><a href="./30 - Whack A Mole/">30 - Whack A Mole</a></li>
+  </ul>
