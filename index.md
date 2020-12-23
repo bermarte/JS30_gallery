@@ -3,7 +3,7 @@
 <ul>
   <li><a href="./01 - JavaScript Drum Kit/">01 - JavaScript Drum Kit</a></li>
   <li><a href="./02 - JS and CSS Clock/">02 - JS and CSS Clock</a></li>
-  <li><a href="./03 - CSS Variables/">/03 - CSS Variables</a></li>
+  <li><a href="./03 - CSS Variables/">03 - CSS Variables</a></li>
   <li><a href="./04 - Array Cardio Day 1/">04 - Array Cardio Day 1</a></li>
   <li><a href="./05 - Flex Panel Gallery/">05 - Flex Panel Gallery</a></li>
   <li><a href="./06 - Type Ahead/">06 - Type Ahead</a></li>
