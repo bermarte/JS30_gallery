@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JS 30 gallery
 
 <ul>
   <li><a href="./01 - JavaScript Drum Kit/">01 - JavaScript Drum Kit</a></li>
