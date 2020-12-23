@@ -1,0 +1,21 @@
+{
+  "name": "compass",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\"",
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackyourfuturebelgium/javascript-30-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackyourfuturebelgium/javascript-30-starter/issues"
+  },
+  "homepage": "https://github.com/hackyourfuturebelgium/javascript-30-starter",
+  "devDependencies": {
+    "browser-sync": "^2.12.5 <2.23.2"
+  }
+}
