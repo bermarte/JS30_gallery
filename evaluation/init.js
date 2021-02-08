@@ -26,7 +26,7 @@ if (window.location.href.indexOf('http') !== -1) {
     const splitHref = window.location.href.split('.');
     const userName = splitHref[0].split('/').filter(str => str !== '').pop();
     const repository = splitHref[2].split('/').filter(str => str !== '').pop();
-    const repoUrl = `https://github.com/${userName}/${repository}`;
+    const repoUrl = `https://github.com/${userName}/tree/master/${repository}`;
 
     const repositoryButton = document.createElement('button');
     repositoryButton.innerHTML = 'repository';
