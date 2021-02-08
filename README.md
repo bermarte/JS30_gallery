@@ -2,6 +2,7 @@
 
 - [live demo](https://bermarte.github.io/JS30_gallery/)
 - [HYF separation of concerns](https://github.com/HackYourFutureBelgium/separation-of-concerns)
+- [youtube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 
 [From HYF](https://raw.githubusercontent.com/HackYourFutureBelgium/separation-of-concerns/master/README.md)    
 
