@@ -1,6 +1,6 @@
 ## js30 gallery
 
-- [live demo](bermarte.github.io/js30_gallery/)
+- [live demo](https://bermarte.github.io/JS30_gallery/)
 - [HYF separation of concerns](https://github.com/HackYourFutureBelgium/separation-of-concerns)
 
 [From HYF](https://raw.githubusercontent.com/HackYourFutureBelgium/separation-of-concerns/master/README.md)    
